@@ -1,0 +1,6 @@
+projectKey=sarah_test_sonar
+serverUrl=http://3.8.194.36:9000
+serverVersion=8.2.0.32929
+dashboardUrl=http://3.8.194.36:9000/dashboard?id=sarah_test_sonar
+ceTaskId=AXu6U18MFdRHBIObD-t3
+ceTaskUrl=http://3.8.194.36:9000/api/ce/task?id=AXu6U18MFdRHBIObD-t3
